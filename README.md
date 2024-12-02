@@ -1,6 +1,6 @@
-### [Download link](https://sipcloud.unige.ch/index.php/s/r5jawqmpqXW8bnF)
+#### [Download](https://sipcloud.unige.ch/index.php/s/r5jawqmpqXW8bnF)
 
-### Dataset description
+#### Description
 
 This dataset was created in a scope of the project related to the publication.
 
@@ -8,7 +8,7 @@ This dataset was created in a scope of the project related to the publication.
 
 This dataset contains only postprocessed versions of images, aligned with respect to the digital template and cropped. The original images may be available upon request.
 
-### Dataset structure
+#### Structure
 
 ```tree . -L 4```
 
@@ -38,12 +38,12 @@ This dataset contains only postprocessed versions of images, aligned with respec
 │           ...
 ├── orig_phone
 │   ├── HPI55_printrun1_session2_InvercoteG
-|   |   ...
+│   │   ...
 │   └── HPI76_printrun1_session2_InvercoteG
 │       ....
 └── orig_scan
     ├── HPI55_printrun1_session0_InvercoteG
-    |   ...
+    │   ...
     └── HPI76_printrun1_session2_InvercoteG
         ...
 ```
