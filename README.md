@@ -2,14 +2,17 @@
 
 ### Dataset description
 
-This dataset was created in a scope of the project related to the publication R. Chaban et al., "*Assessing the Viability of Synthetic Physical Copy Detection Patterns on Different Imaging Systems*" in Proc. 16th IEEE WIFS, Roma, Italy, 2024.
+This dataset was created in a scope of the project related to the publication.
+
+> R. Chaban et al., "*Assessing the Viability of Synthetic Physical Copy Detection Patterns on Different Imaging Systems*" in Proc. 16th IEEE WIFS, Roma, Italy, 2024.
+
 This dataset contains only postprocessed versions of images, aligned with respect to the digital template and cropped. The original images may be available upon request.
 
 ### Dataset structure
 
-> tree . -L 4
+```tree . -L 4```
 
-
+```bash
 .
 ├── fake_phone
 │   ├── HPI55_printrun1_session2_InvercoteG_EHPI76
@@ -43,7 +46,7 @@ This dataset contains only postprocessed versions of images, aligned with respec
     |   ...
     └── HPI76_printrun1_session2_InvercoteG
         ...
-
+```
 
 #### 0th level
 In root directory there are 5 folders:
